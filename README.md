@@ -29,6 +29,6 @@ Permissions required:
 ## Demo Video
 
 <!-- https://github.com/your-username/your-repo-name/assets/your-user-id/demo.mp4 -->
-https://github.com/Ankit-Jangid/image_Viewer_app_demo.mp4/image_Viewer_app_demo.mp4
+https://github.com/Ankit-Jangid/ImageViewerApp/blob/48e73c3ee5231e4c8f817487fcc9dab784c3a12b/image_Viewer_app_demo.mp4
 
 <video src="demo.mp4" controls width="100%" />
