@@ -4,10 +4,6 @@ An Android application that allows users to browse, favorite, and download image
 The app is built using Jetpack Compose for UI, MVVM architecture, and dependency injection using Hilt.
 
 ## Features
-
-- **Home Screen**: Displays the list of images when the app is launched at first.
-
-
 - **Home Screen**: Displays a grid of images fetched from the Unsplash API.
 - **Detail Screen**: Diplay the detailed image and shows info about photographer and has options to mark as favorite and download locally.
 - **Favorites Screen**: Displays images that the user has marked as favorite.
