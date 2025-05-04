@@ -30,7 +30,3 @@ Permissions required:
 
 
 <video src="https://github.com/Ankit-Jangid/ImageViewerApp/blob/test-branch/image_Viewer_app_demo.mp4" controls width="100%" />
-
-
-
-<video src="demo.mp4" controls width="100%" />
